@@ -1,0 +1,11 @@
+attendance_percentage,academic_performance,socioeconomic_score,gender,distance_from_school,previous_failures,behavioral_flags,dropout
+92,78,70,Male,1.5,0,0,0
+88,72,65,Female,2.0,0,0,0
+75,60,50,Male,4.0,1,1,0
+62,48,35,Female,6.0,2,2,1
+55,42,30,Male,8.0,2,3,1
+80,68,60,Female,3.0,0,0,0
+70,55,45,Male,5.0,1,1,1
+96,85,75,Female,1.0,0,0,0
+58,39,25,Male,9.0,3,3,1
+66,52,40,Female,7.0,1,2,1
